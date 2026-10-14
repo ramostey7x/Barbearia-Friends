@@ -1,0 +1,6 @@
+{
+  "name": "Barbearia Friends | Cortes, Barba & Cuidados em Piabetá",
+  "description": "Barbearia Friends em Piabetá, Magé - RJ. Cortes masculinos, barbaterapia, visagismo e atendimento infantil em um ambiente sofisticado e descontraído. Agende pelo WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
